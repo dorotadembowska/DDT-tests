@@ -1,0 +1,5 @@
+<root>
+    <item name='com.tngtech.java.junit.dataprovider.DataProvider'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
